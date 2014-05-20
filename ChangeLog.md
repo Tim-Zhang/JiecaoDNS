@@ -7,3 +7,7 @@
 - 2014.05.12
 
   - 优化baidu.com域的解析结果，解决ping www.baidu.com延时高的问题
+
+- 2014.05.20
+
+  - 更改taobao.com的解析策略
